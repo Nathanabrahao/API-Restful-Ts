@@ -1,0 +1,210 @@
+2024-06-27 16:53:43:5343 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-06-27 16:54:36:5436 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-06-27 16:54:36:5436 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-06-27 16:54:47:5447 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-06-27 16:54:47:5447 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-06-27 16:55:13:5513 [[31merror[39m]: [31mNão foi possivel conectar ao banco de dados![39m
+2024-06-27 16:55:13:5513 [[31merror[39m]: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.vdtlr3.mongodb.net[39m
+2024-06-27 16:55:13:5513 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-06-27 16:55:16:5516 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-06-27 16:55:16:5516 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-06-27 16:55:50:5550 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-06-27 16:55:50:5550 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-06-28 11:33:24:3324 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-06-28 11:33:24:3324 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-06-28 11:33:56:3356 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-06-28 11:33:56:3356 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-06-28 11:34:24:3424 [[35mhttp[39m]: [35mGET /api/test 200 12 - 3.157 ms[39m
+[35m[39m
+2024-06-28 13:31:39:3139 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-06-28 13:31:39:3139 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-06-28 13:31:52:3152 [[35mhttp[39m]: [35mGET /api/test 200 12 - 3.230 ms[39m
+[35m[39m
+2024-06-28 13:31:57:3157 [[35mhttp[39m]: [35mGET /api/movie 404 148 - 2.459 ms[39m
+[35m[39m
+2024-06-28 13:32:13:3213 [[35mhttp[39m]: [35mGET /api/test 200 12 - 0.713 ms[39m
+[35m[39m
+2024-06-28 13:32:56:3256 [[35mhttp[39m]: [35mPOST /api//api/movie 404 154 - 0.831 ms[39m
+[35m[39m
+2024-06-28 13:33:06:336 [[35mhttp[39m]: [35mPOST /api/movie 200 22 - 0.572 ms[39m
+[35m[39m
+2024-06-28 13:45:15:4515 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-06-28 13:45:15:4515 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-06-28 13:45:35:4535 [[35mhttp[39m]: [35mPOST /api/movie 201 156 - 41.238 ms[39m
+[35m[39m
+2024-06-28 15:59:06:596 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-06-28 15:59:06:596 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-06-28 15:59:11:5911 [[35mhttp[39m]: [35mPOST /api/movie 201 156 - 44.795 ms[39m
+[35m[39m
+2024-06-28 23:59:10:5910 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-06-28 23:59:10:5910 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-06-28 23:59:22:5922 [[35mhttp[39m]: [35mPOST /api/movie 201 160 - 50.173 ms[39m
+[35m[39m
+2024-06-29 00:00:57:057 [[35mhttp[39m]: [35mPOST /api/movie 201 166 - 19.041 ms[39m
+[35m[39m
+2024-06-29 00:02:20:220 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-06-29 00:02:20:220 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-06-29 00:02:32:232 [[35mhttp[39m]: [35mPOST /api/movie 201 166 - 38.336 ms[39m
+[35m[39m
+2024-07-01 11:13:02:132 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 11:13:02:132 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 12:58:14:5814 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 12:58:14:5814 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 12:58:15:5815 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 12:58:15:5815 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:01:35:135 [[35mhttp[39m]: [35mGET /api/test 200 12 - 3.448 ms[39m
+[35m[39m
+2024-07-01 13:01:39:139 [[35mhttp[39m]: [35mPOST /api/movie 422 196 - 6.984 ms[39m
+[35m[39m
+2024-07-01 13:01:49:149 [[35mhttp[39m]: [35mPOST /api/movie 422 230 - 3.643 ms[39m
+[35m[39m
+2024-07-01 13:04:39:439 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:04:39:439 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:04:42:442 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:04:42:442 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:04:49:449 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:04:49:449 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:09:09:99 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:09:09:99 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:09:59:959 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:09:59:959 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:10:25:1025 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:10:25:1025 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:10:31:1031 [[35mhttp[39m]: [35mPOST /api/movie 422 223 - 9.567 ms[39m
+[35m[39m
+2024-07-01 13:10:48:1048 [[35mhttp[39m]: [35mPOST /api/movie 422 223 - 3.128 ms[39m
+[35m[39m
+2024-07-01 13:11:31:1131 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:11:31:1131 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:11:32:1132 [[35mhttp[39m]: [35mPOST /api/movie 422 407 - 10.009 ms[39m
+[35m[39m
+2024-07-01 13:11:51:1151 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:11:51:1151 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:12:07:127 [[35mhttp[39m]: [35mPOST /api/movie 422 373 - 10.370 ms[39m
+[35m[39m
+2024-07-01 13:12:21:1221 [[35mhttp[39m]: [35mPOST /api/movie 422 223 - 8.899 ms[39m
+[35m[39m
+2024-07-01 13:12:21:1221 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:12:21:1221 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:14:00:140 [[35mhttp[39m]: [35mPOST /api/movie 422 42 - 2.681 ms[39m
+[35m[39m
+2024-07-01 13:14:19:1419 [[35mhttp[39m]: [35mPOST /api/movie 422 42 - 1.492 ms[39m
+[35m[39m
+2024-07-01 13:20:49:2049 [[35mhttp[39m]: [35mPOST /api/movie 422 76 - 2.337 ms[39m
+[35m[39m
+2024-07-01 13:21:55:2155 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:21:55:2155 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:22:00:220 [[35mhttp[39m]: [35mPOST /api/movie 422 76 - 9.519 ms[39m
+[35m[39m
+2024-07-01 13:24:49:2449 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:24:49:2449 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:24:49:2449 [[35mhttp[39m]: [35mPOST /api/movie 201 1036 - 52.108 ms[39m
+[35m[39m
+2024-07-01 13:30:06:306 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:30:06:306 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:31:15:3115 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:31:15:3115 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:31:34:3134 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:31:34:3134 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:32:01:321 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:32:01:321 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:32:41:3241 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:32:41:3241 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:33:17:3317 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:33:17:3317 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:35:00:350 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:35:00:350 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:35:52:3552 [[35mhttp[39m]: [35mGET /api//movie/6682d8513853e15f81f80de4 - - - - ms[39m
+[35m[39m
+2024-07-01 13:35:54:3554 [[35mhttp[39m]: [35mGET /api/movie/6682d8513853e15f81f80de4 - - - - ms[39m
+[35m[39m
+2024-07-01 13:35:57:3557 [[35mhttp[39m]: [35mGET /api/movie/6682d8513853e15f81f80de4 - - - - ms[39m
+[35m[39m
+2024-07-01 13:36:03:363 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:36:03:363 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:36:15:3615 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:36:15:3615 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:41:15:4115 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:41:15:4115 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:41:41:4141 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:41:41:4141 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:41:43:4143 [[35mhttp[39m]: [35mGET /api/movie/6682d8513853e15f81f80de4 200 1036 - 32.063 ms[39m
+[35m[39m
+2024-07-01 13:43:45:4345 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 13:43:45:4345 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 13:43:48:4348 [[35mhttp[39m]: [35mGET /api/movie/6682d8513853e15f81f80de4 200 1036 - 31.764 ms[39m
+[35m[39m
+2024-07-01 13:44:42:4442 [[32minfo[39m]: [32mErro no sistema: Cast to ObjectId failed for value "6682d8513853e15f81f80de" (type string) at path "_id" for model "Movie"[39m
+2024-07-01 13:45:09:459 [[35mhttp[39m]: [35mGET /api/movie/6682d8513853e15f81f80de - - - - ms[39m
+[35m[39m
+2024-07-01 13:45:10:4510 [[35mhttp[39m]: [35mGET /api/movie/6682d8513853e15f81f80de4 200 1036 - 16.814 ms[39m
+[35m[39m
+2024-07-01 15:16:20:1620 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 15:16:20:1620 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 15:16:24:1624 [[35mhttp[39m]: [35mGET /api/movie/6682d8513853e15f81f80de4 200 1036 - 60.864 ms[39m
+[35m[39m
+2024-07-01 15:16:46:1646 [[35mhttp[39m]: [35mGET /api/movie/6682d8513853e15f81f80de5 404 32 - 14.241 ms[39m
+[35m[39m
+2024-07-01 15:16:49:1649 [[32minfo[39m]: [32mErro no sistema: Cast to ObjectId failed for value "6682d8513853e15f81f80de" (type string) at path "_id" for model "Movie"[39m
+2024-07-01 15:16:52:1652 [[35mhttp[39m]: [35mGET /api/movie/6682d8513853e15f81f80de - - - - ms[39m
+[35m[39m
+2024-07-01 15:16:52:1652 [[35mhttp[39m]: [35mGET /api/movie/6682d8513853e15f81f80de4 200 1036 - 15.282 ms[39m
+[35m[39m
+2024-07-01 15:34:55:3455 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 15:34:55:3455 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 15:36:33:3633 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 15:36:33:3633 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 15:37:04:374 [[35mhttp[39m]: [35mGET /api/movie 200 1038 - 34.840 ms[39m
+[35m[39m
+2024-07-01 15:37:25:3725 [[35mhttp[39m]: [35mPOST /api/movie 201 1034 - 43.255 ms[39m
+[35m[39m
+2024-07-01 15:37:28:3728 [[35mhttp[39m]: [35mGET /api/movie 200 2073 - 14.750 ms[39m
+[35m[39m
+2024-07-01 15:39:56:3956 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 15:39:56:3956 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 15:41:07:417 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 15:41:07:417 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 15:41:34:4134 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 15:41:34:4134 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 15:41:54:4154 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 15:41:54:4154 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 15:41:58:4158 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 15:41:58:4158 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 15:42:59:4259 [[35mhttp[39m]: [35mDELETE /api/movie/remove/6682f765fe147387e42b6561 - - - - ms[39m
+[35m[39m
+2024-07-01 15:43:19:4319 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 15:43:19:4319 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 15:43:53:4353 [[35mhttp[39m]: [35mDELETE /api/movie/6682f765fe147387e42b6561 - - - - ms[39m
+[35m[39m
+2024-07-01 15:43:57:4357 [[35mhttp[39m]: [35mDELETE /api/movie/6682f765fe147387e42b6562 404 32 - 18.414 ms[39m
+[35m[39m
+2024-07-01 15:44:01:441 [[35mhttp[39m]: [35mDELETE /api/movie/6682f765fe147387e42b6561 - - - - ms[39m
+[35m[39m
+2024-07-01 15:44:35:4435 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 15:44:35:4435 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 15:45:04:454 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 15:45:04:454 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 15:45:26:4526 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 15:45:26:4526 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 15:45:29:4529 [[35mhttp[39m]: [35mDELETE /api/movie/6682f765fe147387e42b6561 200 37 - 55.927 ms[39m
+[35m[39m
+2024-07-01 15:45:34:4534 [[35mhttp[39m]: [35mGET /api/movie 200 1038 - 18.902 ms[39m
+[35m[39m
+2024-07-01 15:46:11:4611 [[35mhttp[39m]: [35mPOST /api/movie 201 1034 - 41.880 ms[39m
+[35m[39m
+2024-07-01 15:46:15:4615 [[35mhttp[39m]: [35mGET /api/movie 200 2073 - 17.505 ms[39m
+[35m[39m
+2024-07-01 15:46:24:4624 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 15:46:24:4624 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 15:46:42:4642 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 15:46:42:4642 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 15:47:16:4716 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 15:47:16:4716 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 15:48:14:4814 [[35mhttp[39m]: [35mPATCH /api/movie/6682f97324a7f878370fc049 200 22 - 52.786 ms[39m
+[35m[39m
+2024-07-01 15:48:20:4820 [[35mhttp[39m]: [35mGET /api/movie 200 2073 - 16.188 ms[39m
+[35m[39m
+2024-07-01 15:50:34:5034 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 15:50:34:5034 [[32minfo[39m]: [32mServer is running on port 3000[39m
+2024-07-01 15:50:38:5038 [[32minfo[39m]: [32mConectou ao banco de dados![39m
+2024-07-01 15:50:38:5038 [[32minfo[39m]: [32mServer is running on port 3000[39m
